@@ -11,7 +11,7 @@ Modelo laravel + vuejs3 padrão já configurado para utilização com quasar e t
 ## Clone
 
 ```bash
-git clone https://github.com/cettufg/modelo_laravel_vuejs.git
+git clone https://github.com/allyssonj/modelo_laravel_vuejs.git
 ```
 
 ## Instalação
